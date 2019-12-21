@@ -1,1 +1,1 @@
-A sample of todo restful api using laravel.
+A sample of todo restful api using laravel with docker-comopse.
